@@ -1,6 +1,6 @@
 {
 "ModerationLevel": "communityManaged",
 "Facilitator": "MaslowSurplusParts",
-"Price": "$12",
+"Price": "$36",
 "Category": "market"
 }
